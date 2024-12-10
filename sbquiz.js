@@ -64,7 +64,7 @@ function selectAnswer(e) {
 }
 
 function returnToHome() {
-    window.location.href = 'sp.html'
+    window.location.href = 'index.html'
 }
 
 function setStatusClass(element, correct) {
